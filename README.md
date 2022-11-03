@@ -3,7 +3,7 @@
 This repo is a way of keeping track of what I'm learning to make in Rust. I'm aiming for some key datastrucutres and algorithms:
 
 ## The Nodes
-- [LinkedList](https://github.com/philipfranchi/ruststructs/blob/master/linkedlist/README.md)
+- [LinkedList](https://github.com/philipfranchi/ruststructs/blob/master/src/linkedlist/README.md)
 - Doubly LinkedList
 - ArrayBacked Lists
 - Stack
