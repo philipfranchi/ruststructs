@@ -13,7 +13,10 @@ This repo is a way of keeping track of what I'm learning to make in Rust. I'm ai
 - Heap
 
 ## The Algorithms
-- Binary Search
+- [Binary Search](https://github.com/philipfranchi/ruststructs/blob/master/src/binarysearch/README.md)
+- Merge Sort
+- Quick Sort
+- Heap Sort
 - All manner of graph traversal
 
 ## The Tables
